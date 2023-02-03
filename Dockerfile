@@ -1,2 +1,2 @@
 FROM httpd
-Copy inex.html /usr/local/apache2/htddocs
+Copy index.html /usr/local/apache2/htddocs
